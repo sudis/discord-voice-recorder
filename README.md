@@ -5,8 +5,8 @@
   
 
  -   Serwer, do którego mam uprawnienia: [**Serendia Squad**](https://discord.gg/serendia)
--    Dla głównego właściciela projektu: [**sravanth-chebrolu**](https://github.com/sravanth-chebrolu/discord-voice-recorder)
--   Moja nazwa użytkownika na Discord: **weiss#0099**
+-    Dla głównego właściciela projektu: [**chebro**](https://github.com/chebro/discord-voice-recorder)
+-   Moja nazwa użytkownika na Discord: **Eftelya¹⁶#6446**
 
 ##   Zanim zaczniemy!
 
@@ -91,6 +91,6 @@ Jeśli wszystko zostało zrobione pomyślnie, bot odegra dźwięk ding. Następn
 ![enter image description here](https://sudis.is-pretty.sexy/8Z7kzar.gif)
 
 # VERY THANKS!
-https://github.com/sravanth-chebrolu/discord-voice-recorder Thanks for Sravanth!
+https://github.com/chebro Thanks for chebro!
 
-  Na każdy problem: weiss#0099
+  Na każdy problem: Eftelya¹⁶#6446
